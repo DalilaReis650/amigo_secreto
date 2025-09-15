@@ -1,0 +1,58 @@
+Amigo Secreto 🎁
+
+Projeto simples de Amigo Secreto feito em HTML, CSS e JavaScript puro, onde é possível adicionar nomes de amigos e sortear aleatoriamente um “amigo secreto”.
+
+Funcionalidades
+
+Adicionar nomes à lista de amigos.
+
+Validar entrada (não permite nomes vazios).
+
+Visualizar todos os nomes adicionados em uma lista.
+
+Sortear um amigo secreto de forma aleatória.
+
+Resultado exibido na tela de forma clara.
+
+Tecnologias Utilizadas
+
+HTML5 – Estrutura da página.
+
+CSS3 – Estilização responsiva e moderna.
+
+JavaScript (ES6) – Lógica de adicionar nomes, atualizar lista e sortear amigo secreto.
+
+Como Usar
+
+Clone o repositório ou faça o download dos arquivos.
+
+Abra o arquivo index.html no navegador.
+
+Digite o nome dos seus amigos no campo de texto e clique em Adicionar.
+
+Todos os nomes adicionados aparecerão na lista.
+
+Clique em Sortear Amigo para ver quem foi escolhido.
+
+Estrutura do Projeto
+amigo-secreto/
+│
+├── index.html         # Estrutura da página
+├── style.css          # Estilos da página
+├── app.js             # Lógica do JavaScript
+├── assets/            # Imagens usadas no projeto
+│   ├── amigo-secreto.png
+│   └── play_circle_outline.png
+└── README.md          # Este arquivo
+
+Observações
+
+O projeto utiliza defer no script para garantir que o JS carregue após o HTML.
+
+O botão Sortear Amigo pode ser clicado várias vezes, escolhendo aleatoriamente entre os nomes adicionados.
+
+É possível estender o projeto para remover nomes da lista ou melhorar o design responsivo.
+
+Autor
+
+Desenvolvido por [Seu Nome]
